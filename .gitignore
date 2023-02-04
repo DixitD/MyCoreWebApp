@@ -1,0 +1,5 @@
+# Ignore Visual Studio-specific files and directories
+.vs/
+
+# Ignore solution file
+*.sln

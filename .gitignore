@@ -3,3 +3,7 @@
 
 # Ignore solution file
 *.sln
+
+# obj file and appsetting.json file
+MyCoreWebApp/obj/
+MyCoreWebApp/appsettings.json
